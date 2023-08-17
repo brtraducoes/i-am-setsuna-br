@@ -1,0 +1,22 @@
+﻿
+Makes enemy HP visible
+
+Boosts Fluxation Rate
+
+Boosts HP
+
+Boosts MP
+
+Boosts Physical Attack
+
+Boosts Magical Attack
+
+Boosts ATB Speed
+
+Boosts SP Speed
+
+Boosts Critical Hit Rate
+
+Boosts EXP Earned
+
+Boosts Drop Rate
